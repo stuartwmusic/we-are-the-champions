@@ -18,7 +18,7 @@ const endorsementsListEl = document.getElementById("endorsements-list")
 //     push(endorsementsInDB, inputValue)
 //     clearInputFieldEl()
 //     endorsementsListEl.innerHTML += `<li>${inputValue}</li>`
-// DE-COMMENT THE ABOVE WHEN READY TO START JS AGAIN
+
         //  console.log(`${inputValue} added to database`)
 })
 
